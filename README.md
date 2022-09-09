@@ -2,7 +2,7 @@
 <h1 align="left">Hi, Welcome to my Github Profile!</h1>
 <h3 align="left">I'm a Frontend Developer and I like solving problems</h3>
 
-  - 🔭 I’m currently working on **Mern Stack Projects**
+  - 🔭 I’m currently working on **Full Stack Projects**
   - 📫 How to reach me **y.emretoptanci@gmail.com**
 
 ## Connect with me:
